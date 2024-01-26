@@ -33,7 +33,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users submit support requests through the osTicket system via email, web form, or other channels.
+The system automatically generates a ticket and assigns it a unique ticket number.
+Tickets appear in the "Open Tickets" queue, awaiting assignment to a staff member.
 </p>
 <br />
 
@@ -41,7 +43,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Staff members review the open ticket queue and assign tickets to appropriate departments or individuals.
+The assigned staff member triages the ticket, gathering additional information if necessary.
+During triage, the staff may prioritize tickets based on urgency or complexity.
 </p>
 <br />
 
@@ -49,6 +53,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The assigned staff member works on resolving the issue described in the ticket.
+Staff can communicate with the user through osTicket to gather more details or provide updates.
+Once the issue is resolved, the staff member updates the ticket status and adds any relevant notes.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+osTicket sends email notifications to the user at key points in the ticket lifecycle, such as when the ticket is created, assigned, or resolved.
+Users can also log in to the osTicket system to view the status of their tickets and communicate with support staff.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After resolving the issue and confirming user satisfaction, the staff member closes the ticket.
+osTicket allows for the generation of reports and analytics, providing insights into ticket resolution times, common issues, and overall support performance.
+Closed tickets are stored in the system for future reference, and users can reopen them if the issue recurs.
 </p>
 <br />
